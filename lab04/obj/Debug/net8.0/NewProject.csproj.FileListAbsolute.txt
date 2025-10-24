@@ -1,0 +1,14 @@
+C:\Users\Bianca\Desktop\.NET\NewProject\bin\Debug\net8.0\NewProject.exe
+C:\Users\Bianca\Desktop\.NET\NewProject\bin\Debug\net8.0\NewProject.deps.json
+C:\Users\Bianca\Desktop\.NET\NewProject\bin\Debug\net8.0\NewProject.runtimeconfig.json
+C:\Users\Bianca\Desktop\.NET\NewProject\bin\Debug\net8.0\NewProject.dll
+C:\Users\Bianca\Desktop\.NET\NewProject\bin\Debug\net8.0\NewProject.pdb
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.AssemblyInfoInputs.cache
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.AssemblyInfo.cs
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.dll
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\refint\NewProject.dll
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.pdb
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\NewProject.genruntimeconfig.cache
+C:\Users\Bianca\Desktop\.NET\NewProject\obj\Debug\net8.0\ref\NewProject.dll
